@@ -4,11 +4,30 @@
 
 body
   font-family: $main-font
-  padding: $padding
+  padding: $padding * 3 $padding
 
 h1
   span
+    display: inline-block
     text-transform: lowercase
+    margin-right: 10px
     font:
       size: 300%
       weight: bold
+  a
+    display: block
+    margin-top: 10px
+
+a
+  color: #aaa
+  text-decoration: line-through
+  font:
+    size: 100%
+    weight: normal
+  &:hover
+    color: #999
+    text-decoration: none
+
+.container
+  max-width: 700px
+  margin: 0 auto
