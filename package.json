@@ -1,5 +1,6 @@
 {
   "name": "bertamu-harus-sopan",
+  "description": "Maaf, Kalau Bertamu Harus Sopan.",
   "version": "0.0.1",
   "scripts": {
     "dev": "nuxt",
@@ -8,8 +9,14 @@
   },
   "author": "k@muhar.us",
   "devDependencies": {
-    "nuxt": "^2.0.0",
     "compass-mixins": "^0.12.10",
-    "mustart-gradients": "0.0.6"
+    "mustart-gradients": "0.0.6",
+    "nuxt": "^2.0.0"
+  },
+  "dependencies": {
+    "node-sass": "^4.13.0",
+    "pug": "^2.0.4",
+    "pug-plain-loader": "^1.0.0",
+    "sass-loader": "^8.0.0"
   }
 }
