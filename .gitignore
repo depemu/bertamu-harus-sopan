@@ -36,3 +36,4 @@ GitHub.sublime-settings
 build/
 .DS_Store
 .ftpconfig
+public
