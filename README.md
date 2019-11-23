@@ -1,10 +1,7 @@
-# Mustart
-Front-end development starter
+Bertamu harus sopan
 
 ```javascript
-npm install
+yarn install
 
-gulp setup // only for the very first time, to create default directory structure
-gulp watch // watching files
+yarn dev
 ```
-
