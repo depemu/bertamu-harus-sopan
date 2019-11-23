@@ -6,7 +6,3 @@
       span.mustart-gradient-leaves-text Sopan
       a(href="https://berta.muhar.us/sopan") https://berta.muhar.us/sopan
 </template>
-
-<script>
-export default {}
-</script>

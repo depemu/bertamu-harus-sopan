@@ -1,7 +1,7 @@
 Bertamu harus sopan.
 
 ## Getting Started
-```javascript
-yarn install
-yarn dev
+```bash
+$ yarn install
+$ yarn dev
 ```
