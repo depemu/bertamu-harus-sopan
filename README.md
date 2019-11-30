@@ -2,9 +2,9 @@ Bertamu harus sopan.
 
 ## Getting Started
 ```bash
-// Install dependencies
+# Install dependencies
 $ yarn install
 
-// Run development
+# Run development
 $ yarn dev
 ```
